@@ -59,8 +59,8 @@ aws configure
 
 ### 5. Simuladores (On-Prem)
 
-- Instale VirtualBox
-- Instale Vagrant
+- Instale VirtualBox: https://virtualbox.org/
+- Instale Vagrant: https://vagrantup.com/downloads
 
 ---
 
